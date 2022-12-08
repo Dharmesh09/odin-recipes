@@ -10,6 +10,17 @@ h1{
     color: white;
 }
 
+h3{
+    color: white;
+    font-size: 28px;
+    text-decoration: underline;
+}
+
+p,li{
+    color: white;
+    font-size: 20px;
+}
+
 .recipe-list{
     font-size: 30px;
 }
